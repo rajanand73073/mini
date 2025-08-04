@@ -87,15 +87,13 @@ Visit: [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 🌐 Live Demo
 
-[Live Link](https://your-live-link-here.com)
 
 ---
 
 ## 🛠️ Deployment
 
-- Backend: Heroku/Render/AWS
+- Backend: Render
 - Frontend: Vercel/Netlify
 
 ---
@@ -103,7 +101,7 @@ Visit: [http://localhost:5173](http://localhost:5173)
 ## 👤 Author
 
 - Anand Raj
-- [GitHub](https://github.com/yourusername)
+- [GitHub](https://github.com/rajanand73073)
 
 ---
 

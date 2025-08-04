@@ -2,7 +2,7 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 import "./index.css";
 import "./App.css";
-import StartPage from "./start/start.jsx";
+import StartPage from "./Start/Start.jsx";
 import SignIn from "./Auth/SignIn.jsx";
 import SignUp from "./Auth/Signup.jsx";
 import HomeFeed from "./Dashboard/HomeFeed.jsx";

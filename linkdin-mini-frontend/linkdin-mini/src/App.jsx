@@ -4,7 +4,7 @@ import "./index.css";
 import "./App.css";
 import StartPage from "./Start/Start.jsx";
 import SignIn from "./Auth/SignIn.jsx";
-import SignUp from "./Auth/Signup.jsx";
+import SignUp from "./Auth/SignUp.jsx";
 import HomeFeed from "./Dashboard/HomeFeed.jsx";
 import Profile from "./Profile/profile.jsx";
 import UserProtectWrapper from "./wrapper/Protectionwrapper.jsx";

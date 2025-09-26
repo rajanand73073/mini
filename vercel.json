@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "linkdin-mini-frontend/package.json",
+      "use": "@vercel/static-build",
+      "config": { "distDir": "linkdin-mini-frontend/build" }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "linkdin-mini-frontend/build/index.html"
+    }
+  ]
+}
